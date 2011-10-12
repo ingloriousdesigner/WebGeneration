@@ -1,0 +1,26 @@
+Theme : Famine
+Convention de code : indentation de 4 espaces. 
+Separation du css et du html. Le code javascript placé dans le dossier parent.
+Les balises sont également indenté. 
+Les balises de titres, paragraphe, s'ouvrent et se ferment sur la même ligne.
+L'initialisation du tableau est indenté et les lignes et colonnes s'écrivent sur la même ligne.
+
+Exemple :
+//fichier html
+<html>
+// Du code du code et du code.
+<script cible="code.js"></script>
+  <body>
+		// Du code du code et du code
+		<t1> // Le titre </t1>
+		<tr>
+			<th>//blablabla</th>
+		</tr>
+	</body>
+</html>
+
+//fichier css
+.body
+{
+	background : blue
+}
