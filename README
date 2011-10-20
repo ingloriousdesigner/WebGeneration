@@ -10,7 +10,11 @@ Exemple :
 <html>
 // Du code du code et du code.
 <script cible="code.js"></script>
+<<<<<<< HEAD
   <body>
+=======
+	<body>
+>>>>>>> Ajout d'un patron pour le coverflow ;) à modifier avec le css ;) (le javascript étant juste pour éviter cette masse de code avec les insertElement etc)
 		// Du code du code et du code
 		<t1> // Le titre </t1>
 		<tr>
@@ -23,6 +27,7 @@ Exemple :
 .body
 {
 	background : blue
+<<<<<<< HEAD
 }
 
 Technologie employé :
@@ -51,3 +56,6 @@ Rouge terre
 R 255
 G 86
 B 39
+=======
+}
+>>>>>>> Ajout d'un patron pour le coverflow ;) à modifier avec le css ;) (le javascript étant juste pour éviter cette masse de code avec les insertElement etc)
