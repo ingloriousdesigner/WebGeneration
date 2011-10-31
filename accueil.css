@@ -1,0 +1,17 @@
+body
+{
+	width: 760px;
+	margin: auto;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+#menu
+{
+	width: 700px;
+}
+
+.banniere
+{
+	position: fixed;
+}
