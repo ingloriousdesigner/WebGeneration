@@ -15,3 +15,22 @@ body
 {
 	position: fixed;
 }
+
+#article
+{
+
+	margin-top : 20px;
+	margin-bottom: 20px;
+	width: 400px;
+	position: center;
+
+}
+
+
+#news
+{
+	margin-top: 20px;
+	margin-left: 800px;
+	margin-right: 40px;
+	width: 100px;
+}
